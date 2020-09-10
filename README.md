@@ -1,3 +1,2 @@
 # Music-Player
-
-Read Report.pdf
+## Please read the Report.pdf file in the root directory.
